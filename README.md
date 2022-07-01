@@ -1,6 +1,6 @@
 **Hi there, glad to see you here :wave:**
 
-I'm nawawi, a Full Stack Developer from [Malaysia](https://en.wikipedia.org/wiki/Malaysia), one of the most tolerant countries on earth. My vast experience mostly on Linux related to DevOps works, security, and coding with Perl, Bash, C and PHP.
+I'm Nawawi, a Full Stack Developer from [Malaysia](https://en.wikipedia.org/wiki/Malaysia), one of the most tolerant countries on earth. My vast experience mostly on Linux related to DevOps works, security, and coding with Perl, Bash, C and PHP.
 
 Four years ago, I'm focusing on WordPress solutions and created some wonderful tech crafts:
 
