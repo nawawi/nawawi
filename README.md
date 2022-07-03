@@ -7,7 +7,7 @@ Since 2019, I'm focusing on [WordPress](https://wordpress.org/) solutions and cr
 - [Docket Cache](https://docketcache.com/?utm_source=nawawi-githubs&utm_campaign=self-repo&utm_medium=github)
 - [Docket CronWP](https://github.com/nawawi/docket-cronwp)
 
-If you have something like outsourcing on your mind, [email](https://docketcache.com/contactus/) me, I'm happy to reply as best I can.
+If you have something on your mind, [email](https://docketcache.com/contactus/) me, I'm happy to reply as best I can.
 
 Thanks.
 
