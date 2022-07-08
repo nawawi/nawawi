@@ -7,8 +7,10 @@ Since 2019, I'm focusing on [WordPress](https://wordpress.org/) solutions and cr
 - [Docket Cache](https://docketcache.com/?utm_source=nawawi-githubs&utm_campaign=self-repo&utm_medium=github)
 - [Docket CronWP](https://github.com/nawawi/docket-cronwp)
 
-And the old API service if you required so:
+And other projects for your preferences:
 - [Company Stamp Generator](https://api.rutweb.com/stamp/)
+- [SME Niaga](https://smeniaga.com)
+- [UrusNiaga](https://urusniaga.my)
 
 If you have any enquiry, please do [email](https://docketcache.com/contactus/) me, I'm happy to reply as best I can.
 
