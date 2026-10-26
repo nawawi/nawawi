@@ -1,8 +1,1 @@
-**Hi there, glad to see you here :wave:**
-
-I'm Nawawi, a full-stack developer from [Malaysia](https://en.wikipedia.org/wiki/Malaysia), one of the most tolerant countries on earth. My vast experience mostly on Linux related to SysAdmin works, security, and coding with Perl, Bash, C and PHP.
-
-If you have any enquiry, please do [email](https://ghostbirdmedia.com/#contact-us) me, I'm happy to reply as best I can.
-
-Thanks.
-
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/d6746296-a460-4be3-8da7-a7e7aa6e016c" />
